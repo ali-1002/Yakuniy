@@ -1,0 +1,35 @@
+# Operatsion tizim fayllari
+.DS_Store
+Thumbs.db
+
+# Python fayllari
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual muhit
+.venv/
+.env/
+
+# IDE fayllari
+.vscode/
+.idea/
+
+# Log fayllari
+*.log
+
+# Build fayllari
+build/
+dist/
+*.egg-info/
+
+# Maxfiy fayllar
+.env
+
+# Node.js fayllari
+node_modules/
+
+# Docker fayllari
+.docker/
+
+db.sqlite3
